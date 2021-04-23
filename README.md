@@ -1,2 +1,1 @@
-# Shell-Xamarin
-template
+Xamarin Navigation Bar Template
